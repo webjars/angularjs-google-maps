@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angularjs-google-maps</artifactId>
-    <version>1.7.11</version>
+    <version>1.7.12-SNAPSHOT</version>
     <name>GoogleMap AngularJS Directive</name>
     <description>WebJar for GoogleMap AngularJS Directive</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angularjs-google-maps</url>
         <connection>scm:git:https://github.com/webjars/angularjs-google-maps.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angularjs-google-maps.git</developerConnection>
-        <tag>angularjs-google-maps-1.7.11</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
